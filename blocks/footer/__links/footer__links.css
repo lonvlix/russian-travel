@@ -9,5 +9,11 @@
     line-height: 18px;   
     padding-top: 92px;
     margin-bottom: 24px;
-    transition: opacity .3 ease;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.footer__links {
+		flex-direction: column;
+		font-size: 24px;
+	}
 }

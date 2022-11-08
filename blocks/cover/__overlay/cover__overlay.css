@@ -18,3 +18,7 @@
     background: #2A2C2F;
     opacity: .3;    
 }
+
+.cover__overlay:hover::before {
+    opacity: .8;
+}

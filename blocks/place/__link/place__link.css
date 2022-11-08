@@ -1,0 +1,10 @@
+.place__link {
+    font-style: normal;
+    margin-bottom: 12px;
+    text-decoration-line: underline;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    color: white;
+    margin: 0;
+}

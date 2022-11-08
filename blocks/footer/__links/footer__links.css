@@ -1,0 +1,13 @@
+.footer__links {
+    margin: 0;
+    font-style: normal;
+    display: flex;
+    padding: 0;
+    font-weight: 400;
+    list-style-type: none;
+    font-size: 16px;
+    line-height: 18px;   
+    padding-top: 92px;
+    margin-bottom: 24px;
+    transition: opacity .3 ease;
+}

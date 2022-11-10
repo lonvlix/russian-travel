@@ -3,6 +3,8 @@
     align-items: center;
     display: flex;
     justify-content: space-between; 
+	margin-left: 48px;
+	margin-right: 48px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

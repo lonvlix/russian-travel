@@ -4,4 +4,4 @@
 
 Проект адаптирован под популярные разрешения устройств. В нем использовалась система grid, ссылки, списки и другие штуки.
 
-[Ссылка на проект](https://github.com/lonvlix/russian-travel)
+[Ссылка на проект](https://github.com/lonvlix/russian-travel/index.html)

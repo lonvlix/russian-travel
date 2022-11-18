@@ -18,3 +18,9 @@
         margin: 0;
 	}
 }
+
+@media screen and (min-width: 1024px) {
+	.footer__links {
+		margin-top: 92px;
+	}
+}
